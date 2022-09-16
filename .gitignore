@@ -1,4 +1,6 @@
 # Byte-compiled / optimized / DLL files
+output/checkpoint/*.pt
+output/*.csv
 data/
 __pycache__/
 catboost_info/
